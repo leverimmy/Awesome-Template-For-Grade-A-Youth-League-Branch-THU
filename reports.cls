@@ -15,6 +15,7 @@
 
 % 页面布局
 \RequirePackage[a4paper,left=1.5cm,right=1.5cm,top=4.75cm,bottom=3.5cm]{geometry}
+\setlength{\footskip}{0.5cm}
 
 % 链接设置
 \hypersetup{
@@ -34,7 +35,7 @@
 scale=1.02,
 angle=0,
 opacity=1,
-contents={\includegraphics[width=\paperwidth,height=\paperheight]{assets/background.jpg}}
+contents={\includegraphics[width=\paperwidth,height=\paperheight]{assets/background.png}}
 }
 
 \titleformat{\section}

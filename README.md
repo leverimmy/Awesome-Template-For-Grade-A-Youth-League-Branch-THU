@@ -25,8 +25,7 @@
 ├── connection.tex      # 第六章：班级情感建设
 ├── summary.tex         # 第七章：总结
 ├── assets/             # 图片资源
-│   ├── background.jpg  # 页面背景
-│   └── logo.png        # logo
+│   └── background.jpg  # 页面背景
 └── backup/             # （参考）包含原始填写示例
 ```
 
