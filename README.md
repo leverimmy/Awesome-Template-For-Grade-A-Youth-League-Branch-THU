@@ -6,7 +6,11 @@
 
 ## 效果预览
 
-![Preview](assets/preview.png)
+| 第一页 | 第二页 |
+|:---:|:---:|
+| ![p1](assets/preview-p1.png) | ![p2](assets/preview-p2.png) |
+| 第三页 | 最后一页 |
+| ![p3](assets/preview-p3.png) | ![end](assets/preview-pend.png) |
 
 ## 文件结构
 
