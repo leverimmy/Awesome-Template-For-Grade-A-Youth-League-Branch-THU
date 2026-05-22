@@ -1,0 +1,32 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.nav
+*.snm
+*.vrb
+*.brf
+*.idx
+*.ilg
+*.ind
+*.ist
+*.bbl
+*.bbl-SAVE
+*.blg
+*.dvi
+*.ps
+*.eps-converted-to
+
+# Editor / OS files
+*.backup
+*~
+*.swp
+*.swo
+.DS_Store
